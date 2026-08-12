@@ -1,0 +1,9 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+.venv/
+uploaded_image.jpg
+uploaded_image.png
+uploaded_audio.wav
+uploaded_audio.mp3
+uploaded_audio.m4a
